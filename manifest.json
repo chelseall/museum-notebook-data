@@ -1,7 +1,7 @@
 {
  "v": 1,
- "builtAt": "2026-11-24T10:15:32Z",
- "generator": "MuseumNotebookCatalogueTrial/0.1",
+ "builtAt": "2026-11-24T15:23:35Z",
+ "generator": "MuseumNotebookCatalogueTrial/0.2",
  "files": [
   {
    "file": "city/Q90.json",
@@ -12,7 +12,8 @@
    "bytes": 50917,
    "gzipBytes": 16031,
    "sha256": "5694ef48b9dd2c7cee8a5f7467bb8aa22af40841150b3acb7bfc8f623a0256e8",
-   "builtAt": "2026-11-24T10:15:31Z"
+   "builtAt": "2026-11-24T10:15:31Z",
+   "desc": "capital and most populous city in France"
   },
   {
    "file": "museum/Q19675.json",
@@ -20,10 +21,12 @@
    "qid": "Q19675",
    "name": "Louvre Museum",
    "rows": 18496,
-   "bytes": 3319052,
-   "gzipBytes": 888387,
-   "sha256": "a79dab0987c4be975503033a03f69a5bdffba36535bc4098bbea1f7dbb60e35e",
-   "builtAt": "2026-11-24T10:05:08Z"
+   "bytes": 3319424,
+   "gzipBytes": 888584,
+   "sha256": "c6554bf8421035f003abc7ce4479c378454d300738ce992b905384a59104b666",
+   "builtAt": "2026-11-24T15:23:35Z",
+   "desc": "art and archeology museum in Paris, France",
+   "pieces": 18496
   },
   {
    "file": "museum/Q23402.json",
@@ -31,10 +34,12 @@
    "qid": "Q23402",
    "name": "Musée d'Orsay",
    "rows": 5395,
-   "bytes": 723446,
-   "gzipBytes": 201900,
-   "sha256": "8f86bf30f19a50cecbec293d28d6ee930deb2f90ae35ddd7c2543d7d36c183d4",
-   "builtAt": "2026-11-24T09:06:02Z"
+   "bytes": 723913,
+   "gzipBytes": 202139,
+   "sha256": "6bf260e43a151eecaf6c803409a214ab2e6e1c9c3d49830481d642d6be275e12",
+   "builtAt": "2026-11-24T15:22:46Z",
+   "desc": "art museum in Paris, France",
+   "pieces": 5395
   },
   {
    "file": "museum/Q650519.json",
@@ -42,10 +47,12 @@
    "qid": "Q650519",
    "name": "Musée Rodin",
    "rows": 72,
-   "bytes": 13684,
-   "gzipBytes": 4887,
-   "sha256": "8e764e9dbb809784c64fad2f1d7b41e9831d8d4750e8bfd06e67038d21e1fcb6",
-   "builtAt": "2026-11-24T09:08:06Z"
+   "bytes": 13956,
+   "gzipBytes": 4997,
+   "sha256": "bc68793551f9d01d8d6b5ea3ff10e40f8b50a3f0aa7d509f61b907b6545aa14d",
+   "builtAt": "2026-11-24T15:17:44Z",
+   "desc": "museum in Paris, France",
+   "pieces": 72
   },
   {
    "file": "museum/Q1327886.json",
@@ -53,10 +60,12 @@
    "qid": "Q1327886",
    "name": "Musée Marmottan Monet",
    "rows": 183,
-   "bytes": 34509,
-   "gzipBytes": 8881,
-   "sha256": "c65c1e72ebb5da3992ed571f6882fc3330946d01f76289495843d7f0dbea5d74",
-   "builtAt": "2026-11-24T09:09:01Z"
+   "bytes": 34889,
+   "gzipBytes": 9027,
+   "sha256": "c497f64abf6bdfe3b635592953177a21d96a138e643c53e1742ffb4962054bc2",
+   "builtAt": "2026-11-24T15:18:35Z",
+   "desc": "art museum in Paris, France",
+   "pieces": 183
   },
   {
    "file": "artist/Q296.json",
@@ -64,10 +73,13 @@
    "qid": "Q296",
    "name": "Claude Monet",
    "rows": 1317,
-   "bytes": 245450,
-   "gzipBytes": 53144,
-   "sha256": "8af80769caa8d164054f202d493c4ed67f3bcf13a63d2a5e11e99b603615986d",
-   "builtAt": "2026-11-24T10:12:18Z"
+   "bytes": 245955,
+   "gzipBytes": 53380,
+   "sha256": "3f631adf885ddf210e7827eb4c4e550b944000d55a7b4c2b187b9f5f884b6841",
+   "builtAt": "2026-11-24T15:21:54Z",
+   "desc": "French painter (1840–1926)",
+   "born": 1840,
+   "died": 1926
   },
   {
    "file": "artist/Q30755.json",
@@ -75,10 +87,13 @@
    "qid": "Q30755",
    "name": "Auguste Rodin",
    "rows": 344,
-   "bytes": 61036,
-   "gzipBytes": 16007,
-   "sha256": "d4b8e585ba7d7c764cb498a48f71d3a3448e128f4047bf3f0ea4110676feff08",
-   "builtAt": "2026-11-24T10:14:18Z"
+   "bytes": 61505,
+   "gzipBytes": 16187,
+   "sha256": "eb8c908467fc2f0b13400e5a5bbcafb2879c668b09eedb78f5a0c8c01cf08fe8",
+   "builtAt": "2026-11-24T15:19:58Z",
+   "desc": "French sculptor (1840–1917)",
+   "born": 1840,
+   "died": 1917
   }
  ]
 }
