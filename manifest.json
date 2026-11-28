@@ -1,6 +1,6 @@
 {
  "v": 1,
- "builtAt": "2026-11-28T11:36:58Z",
+ "builtAt": "2026-11-28T18:41:36Z",
  "generator": "MuseumNotebookCatalogue/1.0",
  "files": [
   {
@@ -330,9 +330,9 @@
    "name": "Musée de l'Orangerie",
    "rows": 139,
    "bytes": 36012,
-   "gzipBytes": 9713,
-   "sha256": "38ba46ccc3dbacf29b4a3586847bc45cda09947a7a5b13cde9dd186b90035853",
-   "builtAt": "2026-11-28T11:29:17Z",
+   "gzipBytes": 9711,
+   "sha256": "cf0fd11718387e5f114ac8936b15ab30c48d7782b93e70c23bcaa9b91721b323",
+   "builtAt": "2026-11-28T18:41:25Z",
    "desc": "art museum in Paris, France",
    "pieces": 139
   },
@@ -1474,9 +1474,9 @@
    "name": "Claude Monet",
    "rows": 1317,
    "bytes": 365046,
-   "gzipBytes": 89581,
-   "sha256": "44c2a2f2fa26e41a22d245bc48278f7bced45e0da1962d7b31d9ee4db858a757",
-   "builtAt": "2026-11-28T11:29:34Z",
+   "gzipBytes": 89586,
+   "sha256": "cae17737a44945a0d6884a857183bf847669c30b24e2642057b9b53786c716f1",
+   "builtAt": "2026-11-28T18:41:26Z",
    "desc": "French painter (1840–1926)",
    "born": 1840,
    "died": 1926
