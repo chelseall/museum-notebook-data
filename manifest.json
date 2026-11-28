@@ -1,6 +1,6 @@
 {
  "v": 1,
- "builtAt": "2026-11-27T13:33:49Z",
+ "builtAt": "2026-11-28T09:07:06Z",
  "generator": "MuseumNotebookCatalogue/1.0",
  "files": [
   {
@@ -12,7 +12,7 @@
    "bytes": 5749,
    "gzipBytes": 2283,
    "sha256": "3d6e5e1f6887aff77daf1b959c71de93eda543810d448cab31e26b035d730283",
-   "builtAt": "2026-11-27T13:33:48Z",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "capital of the canton of Geneva, Switzerland"
   },
   {
@@ -48,7 +48,7 @@
    "bytes": 3479083,
    "gzipBytes": 938922,
    "sha256": "266989dc7cdc6a77b80d8124719cc5da3e3d4cb28a38b26a3afc5360716d2789",
-   "builtAt": "2026-11-25T08:50:59Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art and archeology museum in Paris, France",
    "pieces": 18496
   },
@@ -61,7 +61,7 @@
    "bytes": 773694,
    "gzipBytes": 217956,
    "sha256": "050ae53d37cd7b497dbda7ac36bd7ae430d99ec4149f31765ff9e5d062f5481c",
-   "builtAt": "2026-11-25T08:43:15Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, France",
    "pieces": 5395
   },
@@ -74,7 +74,7 @@
    "bytes": 37220,
    "gzipBytes": 10579,
    "sha256": "db5c2aa7313ea3da70d36f2d814e6538e84f904ceb1ae5c9a1d7194b9d2025d6",
-   "builtAt": "2026-11-25T08:38:38Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum for the traditional art of Africa, Asia, Oceania, and the Americas in Paris, France",
    "pieces": 190
   },
@@ -87,7 +87,7 @@
    "bytes": 9763,
    "gzipBytes": 3025,
    "sha256": "187cc0deb41795cc8d94d4f4225b30e1a0a8d5d788b341d06cfa0999fb9e4c26",
-   "builtAt": "2026-11-25T08:38:04Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum dedicated to the famous French writer Balzac",
    "pieces": 67
   },
@@ -100,7 +100,7 @@
    "bytes": 12363,
    "gzipBytes": 4737,
    "sha256": "dae16d6a64d9a29d4c1cfaf5e48331f42cdde2237b1d1f01daf915151cb14c46",
-   "builtAt": "2026-11-25T08:37:46Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum containing internationally important collections of coins, engraved gems, and antiquities",
    "pieces": 40
   },
@@ -110,10 +110,10 @@
    "qid": "Q584164",
    "name": "International Museum of the Reformation",
    "rows": 1,
-   "bytes": 1149,
-   "gzipBytes": 585,
-   "sha256": "51b028acacb194c5abe9bb7d859537c27be5a535d91ca67aa2222b90be6bbffa",
-   "builtAt": "2026-11-27T12:14:10Z",
+   "bytes": 1187,
+   "gzipBytes": 606,
+   "sha256": "91ebde46e1acb4b04492b210e0b70fe9a1c85a8a5b8af768ef60ba16c30f9c98",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "museum collection in the city of Geneva, Switzerland",
    "pieces": 1
   },
@@ -126,7 +126,7 @@
    "bytes": 1925,
    "gzipBytes": 908,
    "sha256": "9e594e0b40987d9dfc8a65a1641cfdb42f70f6e5bcce702e75cf352b8f6e3b43",
-   "builtAt": "2026-11-25T08:37:22Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "science museum in Paris, France",
    "pieces": 5
   },
@@ -139,7 +139,7 @@
    "bytes": 960708,
    "gzipBytes": 225361,
    "sha256": "206086cf92945d67c3144afaa41b7721f25000b9c4496f64c82e3c52e8c5c3e3",
-   "builtAt": "2026-11-27T13:27:40Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of the history of Paris",
    "pieces": 4132
   },
@@ -152,7 +152,7 @@
    "bytes": 19019,
    "gzipBytes": 6795,
    "sha256": "7829e19a78a5e452bdf91ab0993eaa8112b57c8628e2c2ab89f03004d74573cd",
-   "builtAt": "2026-11-25T08:38:18Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 72
   },
@@ -165,7 +165,7 @@
    "bytes": 8583,
    "gzipBytes": 3227,
    "sha256": "3da7a8cf3ab385cb728d88fcb70282de3c201eea46c340f44697596c33867a76",
-   "builtAt": "2026-11-25T08:37:39Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of contemporary art in Paris, France",
    "pieces": 27
   },
@@ -178,7 +178,7 @@
    "bytes": 6001,
    "gzipBytes": 2390,
    "sha256": "e16c203a816f5a21e318da2006182bedacff404a5712919b1c76f0866253c4ed",
-   "builtAt": "2026-11-25T08:37:31Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "anthropology museum in Paris, France",
    "pieces": 23
   },
@@ -188,10 +188,10 @@
    "qid": "Q671822",
    "name": "Ariana Museum",
    "rows": 2,
-   "bytes": 1168,
-   "gzipBytes": 654,
-   "sha256": "50f4bdf73c2f6072da4cb7d7264aba780e2c6ac6d6d61c067e7096943e47c515",
-   "builtAt": "2026-11-27T12:27:20Z",
+   "bytes": 1211,
+   "gzipBytes": 677,
+   "sha256": "218b675982c9d30a8e05b9cc89fc5b69798bff6d8de5cecccd99e8c0efb12cac",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "Swiss Museum of Ceramics and Glass in the city of Geneva, Switzerland",
    "pieces": 2
   },
@@ -201,10 +201,10 @@
    "qid": "Q673396",
    "name": "Musée Rath",
    "rows": 5,
-   "bytes": 2075,
-   "gzipBytes": 1020,
-   "sha256": "e7a998bf101e3d3b453d9cc6ccac7a40709016b6ad0ab5f483775bdf0c23bc13",
-   "builtAt": "2026-11-27T12:35:19Z",
+   "bytes": 2167,
+   "gzipBytes": 1055,
+   "sha256": "0220b6ce9efe2ed1b9ffa8dd4e5c47393fd0a151a884b36e08ddc8e44a9494ce",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "museum building in the city of Geneva, Switzerland",
    "pieces": 5
   },
@@ -214,10 +214,10 @@
    "qid": "Q679075",
    "name": "Museum of Art and History Geneva",
    "rows": 656,
-   "bytes": 125694,
-   "gzipBytes": 33812,
-   "sha256": "726b092a9d9bdfd7f83aab62633394a00534ffecda4b77f768fae2069ad81aaf",
-   "builtAt": "2026-11-27T13:20:58Z",
+   "bytes": 136494,
+   "gzipBytes": 37263,
+   "sha256": "e379f703cc17e692dc5eaf43436997e8bc25bb2d1f7c00517b92c4196adcfb1d",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "museum in Geneva, Switzerland",
    "pieces": 656
   },
@@ -227,10 +227,10 @@
    "qid": "Q683406",
    "name": "International Red Cross and Red Crescent Museum",
    "rows": 4,
-   "bytes": 1744,
-   "gzipBytes": 786,
-   "sha256": "bcb0e45318f696fa2b99785c24531bdc347a4c27bf57bbda881705194fb8b3f3",
-   "builtAt": "2026-11-27T12:32:51Z",
+   "bytes": 1797,
+   "gzipBytes": 808,
+   "sha256": "a02296bbe699b5d9a47291b568b0b1347bf4773e47a7a3fd4e2e7d93d012f33d",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "historical museum in Geneva (Switzerland)",
    "pieces": 4
   },
@@ -243,7 +243,7 @@
    "bytes": 26088,
    "gzipBytes": 7064,
    "sha256": "c071d27a3d7080204cbe191bd031275a429782f421d076ca4ec53969af17954b",
-   "builtAt": "2026-11-25T08:38:25Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, France",
    "pieces": 139
   },
@@ -256,7 +256,7 @@
    "bytes": 29294,
    "gzipBytes": 8386,
    "sha256": "2f5fbe83cde557188688044a3274bc9e2f344196fe1c8386fe09c8872ba18b4c",
-   "builtAt": "2026-11-25T08:38:43Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 301
   },
@@ -269,7 +269,7 @@
    "bytes": 853058,
    "gzipBytes": 164693,
    "sha256": "a5d930ad93e82033a0bd2368c2daeae4b545c649e86e742c46a505d6d877d8e2",
-   "builtAt": "2026-11-25T08:40:35Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "building housing the Museum of Fine Arts of the City of Paris",
    "pieces": 3576
   },
@@ -282,7 +282,7 @@
    "bytes": 1257,
    "gzipBytes": 693,
    "sha256": "0c2aab9f575556cbb95c25a3f57c2958f7c7386ec634678b41592491495d4f47",
-   "builtAt": "2026-11-25T08:37:19Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French art gallery and publisher Aryanized under the Nazis",
    "pieces": 2
   },
@@ -295,7 +295,7 @@
    "bytes": 6084,
    "gzipBytes": 2404,
    "sha256": "0e8500b4a6c547537102fdd5fe99f47526b96ed6be2ad0b31b0da4d891321e66",
-   "builtAt": "2026-11-25T08:38:50Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "natural history museum in Paris, France",
    "pieces": 23
   },
@@ -308,7 +308,7 @@
    "bytes": 6531,
    "gzipBytes": 2623,
    "sha256": "9cc83c4682bf7d47c93ca073e6235334738c7dad1cb8941eca2e7de188519081",
-   "builtAt": "2026-11-27T13:27:41Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French cultural institute dedicated to the Arab world",
    "pieces": 36
   },
@@ -321,7 +321,7 @@
    "bytes": 74449,
    "gzipBytes": 19508,
    "sha256": "27a5146340f935589beefd3e178b70290556d093895d00bf710e681845f4de76",
-   "builtAt": "2026-11-25T08:38:59Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 388
   },
@@ -334,7 +334,7 @@
    "bytes": 946,
    "gzipBytes": 538,
    "sha256": "8599e47825f8b2185b1f9af836d4886026ae8b9bbafb61673faba2343216929d",
-   "builtAt": "2026-11-25T08:37:05Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 1
   },
@@ -347,7 +347,7 @@
    "bytes": 1436,
    "gzipBytes": 765,
    "sha256": "a7ffc2cd81d830f2d497db83a5a8b40b97262bd57ff1f32fa68add9c836647b3",
-   "builtAt": "2026-11-25T08:37:18Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 2
   },
@@ -360,7 +360,7 @@
    "bytes": 6250,
    "gzipBytes": 2441,
    "sha256": "9e7441b4b0c5208bc66565da21dfaa1767f189fe1b8f9594564e30e713c4b8be",
-   "builtAt": "2026-11-25T08:37:39Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 31
   },
@@ -373,7 +373,7 @@
    "bytes": 6000,
    "gzipBytes": 2260,
    "sha256": "372bfc0c2ffe60050d2b50a9a4b1a335b4cd524930dc96a66cef394245dfe987",
-   "builtAt": "2026-11-25T08:37:32Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Parisian museum",
    "pieces": 25
   },
@@ -386,7 +386,7 @@
    "bytes": 1830,
    "gzipBytes": 940,
    "sha256": "1ef4878118c58140990704a92309607df962492367b94b335f6436ab9febdb9a",
-   "builtAt": "2026-11-25T08:37:15Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 4
   },
@@ -399,7 +399,7 @@
    "bytes": 38193,
    "gzipBytes": 10919,
    "sha256": "8b9d4a7f8f8d03365c040fa3af0f2ebb0b920cb9959f92e3d6feab6583e7f401",
-   "builtAt": "2026-11-25T08:38:28Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 162
   },
@@ -412,7 +412,7 @@
    "bytes": 9030,
    "gzipBytes": 3051,
    "sha256": "5ebcc645e8bf05df45a0a495a20dcc3aa0f1daeec816ecdb376693744e8066fe",
-   "builtAt": "2026-11-25T08:37:40Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris and Château de Chambord devoted to hunting and nature",
    "pieces": 39
   },
@@ -425,7 +425,7 @@
    "bytes": 17212,
    "gzipBytes": 5956,
    "sha256": "7448a051abed5dee04f6b781d301fb827ce78a16040d2f290e4afab4107468b8",
-   "builtAt": "2026-11-27T13:27:37Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 55
   },
@@ -438,7 +438,7 @@
    "bytes": 2237,
    "gzipBytes": 1040,
    "sha256": "629cd7ae918455549becfd8f3c98bc87d17ef0d0fa8448445175c0ef80b5aef3",
-   "builtAt": "2026-11-25T08:37:16Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "building in Paris, France",
    "pieces": 5
   },
@@ -451,7 +451,7 @@
    "bytes": 36002,
    "gzipBytes": 9502,
    "sha256": "7e2ad45835a4976656335f23c8e656a5c0ae05552bed9503e4c54fa527f274e5",
-   "builtAt": "2026-11-25T08:30:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, France",
    "pieces": 183
   },
@@ -464,7 +464,7 @@
    "bytes": 12482,
    "gzipBytes": 4782,
    "sha256": "5fa99dfbbb7baf6c0890049062d1a2aa03bf00ca87c40d240fd511edaed1b036",
-   "builtAt": "2026-11-25T08:38:04Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 45
   },
@@ -477,7 +477,7 @@
    "bytes": 1448,
    "gzipBytes": 760,
    "sha256": "625e9b769c8486bb4faa74cdad01b26f5483a926ae3eb606ca8c2baf13e36683",
-   "builtAt": "2026-11-25T08:37:13Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum",
    "pieces": 3
   },
@@ -490,7 +490,7 @@
    "bytes": 164212,
    "gzipBytes": 43159,
    "sha256": "2f5041c6af4f95286e60ba22c142bfd03f046ed7877bec1b2cd6c407abd05bb5",
-   "builtAt": "2026-11-25T08:39:22Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "building in Paris",
    "pieces": 1775
   },
@@ -503,7 +503,7 @@
    "bytes": 109628,
    "gzipBytes": 22600,
    "sha256": "3ad24b62adfb3f7e7882bfe3e4f2deb8ca2eb431a0d46bdb4a8344685d5d9407",
-   "builtAt": "2026-11-25T08:39:00Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 431
   },
@@ -516,7 +516,7 @@
    "bytes": 1932,
    "gzipBytes": 979,
    "sha256": "0aa233b00c637356bc059d89dc69cea37874b3a328d3565f5b4dd11b9bbc0620",
-   "builtAt": "2026-11-25T08:37:32Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of fashion and fashion history located in Paris",
    "pieces": 5
   },
@@ -529,7 +529,7 @@
    "bytes": 102369,
    "gzipBytes": 18613,
    "sha256": "a5c1ef272f27feb85817467c119b8829e700f846fa0c4802331ac99dde9948e2",
-   "builtAt": "2026-11-27T13:27:39Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of Asian art in Paris, France",
    "pieces": 1060
   },
@@ -542,7 +542,7 @@
    "bytes": 15653,
    "gzipBytes": 5220,
    "sha256": "97627476cc73beb47cdb54f3d9e092829baf240cfc25ee6c4119350a6466a532",
-   "builtAt": "2026-11-25T08:38:19Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, France",
    "pieces": 76
   },
@@ -555,7 +555,7 @@
    "bytes": 292224,
    "gzipBytes": 85520,
    "sha256": "d97695cc4ea7fc378d4fe20f86c169df9d518a2718ee108df73b5b68730f27c9",
-   "builtAt": "2026-11-27T13:27:40Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "national museum for modern art of France located in the Centre Pompidou in Paris",
    "pieces": 2382
   },
@@ -568,7 +568,7 @@
    "bytes": 3195,
    "gzipBytes": 1468,
    "sha256": "ddeac49557c81804ee0577f31fc255db04da93178885ec9b36970f37429535c0",
-   "builtAt": "2026-11-25T08:37:23Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 10
   },
@@ -581,7 +581,7 @@
    "bytes": 28542,
    "gzipBytes": 5363,
    "sha256": "b6d53471b9180d053a819acac472edae5b4d3ee13b9d91c13c1bd8919ae9fca4",
-   "builtAt": "2026-11-25T08:38:53Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, France",
    "pieces": 358
   },
@@ -594,7 +594,7 @@
    "bytes": 49060,
    "gzipBytes": 15633,
    "sha256": "d358eb5c91632b54fd7bcd4964f199d085ed51612da0373326087ae870a7bbab",
-   "builtAt": "2026-11-27T12:10:08Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "military museum at the Invalides in Paris",
    "pieces": 201
   },
@@ -607,7 +607,7 @@
    "bytes": 3303,
    "gzipBytes": 1500,
    "sha256": "fdc0ba9e31b22fe5a3d94f1fa02b23be9f929a53786fd2b6f8369456e5dabea9",
-   "builtAt": "2026-11-25T08:37:24Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum dedicated to the history of Parisian hospitals",
    "pieces": 11
   },
@@ -620,7 +620,7 @@
    "bytes": 1036,
    "gzipBytes": 552,
    "sha256": "9813fc0889c8f2ecebc9bfcca86645e60d33dee34ab1e5271128704e6da57c8e",
-   "builtAt": "2026-11-25T08:37:05Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of Armenian art and archaeology located in Paris",
    "pieces": 1
   },
@@ -633,7 +633,7 @@
    "bytes": 1427,
    "gzipBytes": 725,
    "sha256": "931b723c33bcba4e643004e2b1689c7f3affd1eeb4c2aa20ec8a6c5bb5c03fab",
-   "builtAt": "2026-11-25T08:37:18Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "non-profit institution in Paris devoted to the promotion of Dutch art and culture",
    "pieces": 2
   },
@@ -646,7 +646,7 @@
    "bytes": 2437,
    "gzipBytes": 918,
    "sha256": "f461d306f7161a2cb9b8a30df8b91fae04e21fd0cde2c2cd18c53bdc5c8c1d0d",
-   "builtAt": "2026-11-25T08:37:16Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in France",
    "pieces": 5
   },
@@ -659,7 +659,7 @@
    "bytes": 33675,
    "gzipBytes": 7836,
    "sha256": "e8d1688e9dec2f4e385f63a64f729d77d2db7f7d36f4510985df61fb36cad378",
-   "builtAt": "2026-11-25T08:38:49Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 306
   },
@@ -672,7 +672,7 @@
    "bytes": 2075,
    "gzipBytes": 1025,
    "sha256": "05caa8d8cdce89eee2d7b55960bb40a6843e5a5ea0473531a379ebbcd460afd4",
-   "builtAt": "2026-11-25T08:37:17Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Polish cultural centre in France",
    "pieces": 4
   },
@@ -685,7 +685,7 @@
    "bytes": 48956,
    "gzipBytes": 12066,
    "sha256": "b5539f4a6254eb6fe87466b7b20d9a62a92c2b31d00a6ef2b46c9d0b2d8f63bb",
-   "builtAt": "2026-11-25T08:38:36Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum dedicated to Victor Hugo in Paris, France",
    "pieces": 225
   },
@@ -698,7 +698,7 @@
    "bytes": 36018,
    "gzipBytes": 7192,
    "sha256": "124177e8526b68950692625cbe0751a1eb2ca97ef5e0d7c574900aa21375283a",
-   "builtAt": "2026-11-25T08:39:02Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 455
   },
@@ -711,7 +711,7 @@
    "bytes": 854,
    "gzipBytes": 487,
    "sha256": "2a348fdf11ba472b04bf0dc6680c86bb428e3daf5ce835fc4bba88b918f07369",
-   "builtAt": "2026-11-25T08:37:08Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in France",
    "pieces": 1
   },
@@ -724,7 +724,7 @@
    "bytes": 41740,
    "gzipBytes": 9938,
    "sha256": "2762e43451a900f5d9ffb97cd6ead6be220aab4402cbc2d88cafa626a2ca9657",
-   "builtAt": "2026-11-25T08:38:35Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 210
   },
@@ -737,7 +737,7 @@
    "bytes": 2538,
    "gzipBytes": 1091,
    "sha256": "563d9d977f83322ddb90a53b02d989c516a39a84a9a6c5b1c08efd0442a9faf5",
-   "builtAt": "2026-11-25T08:37:27Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, located in the old studio of Antoine Bourdelle",
    "pieces": 12
   },
@@ -750,7 +750,7 @@
    "bytes": 4023,
    "gzipBytes": 1713,
    "sha256": "ab09d846e788c07219d60b3189e9994b4dc1bc244824890bfc1f261fc0560f34",
-   "builtAt": "2026-11-25T08:37:25Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "library and museum located within the Opéra Garnier, Paris",
    "pieces": 14
   },
@@ -763,7 +763,7 @@
    "bytes": 855,
    "gzipBytes": 493,
    "sha256": "0ef9827d728dbcda26d63e76ab7da5124eca37e00662f2eca24fcd09d5a24776",
-   "builtAt": "2026-11-25T08:37:09Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art gallery/museum founded in 1936 in France",
    "pieces": 1
   },
@@ -776,7 +776,7 @@
    "bytes": 1468,
    "gzipBytes": 794,
    "sha256": "eba94214c0424778b1ab417040e3a617fa8ba7aedb8c208fca476ecd41e167eb",
-   "builtAt": "2026-11-25T08:37:11Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Contemporary and modern art gallery with multiple locations",
    "pieces": 2
   },
@@ -789,7 +789,7 @@
    "bytes": 2409,
    "gzipBytes": 1180,
    "sha256": "547a858d1e21c1ef487c39e02e5e0176f136bfe220b27ea2194178ef68149e88",
-   "builtAt": "2026-11-25T08:37:26Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 16
   },
@@ -802,7 +802,7 @@
    "bytes": 1335,
    "gzipBytes": 663,
    "sha256": "5d8e74aade66bb5fca103ce8d5540fe31c3a8a11a00c106ef8be4d182af145f2",
-   "builtAt": "2026-11-25T08:37:14Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of military models located within the Hôtel des Invalides, Paris",
    "pieces": 4
   },
@@ -815,7 +815,7 @@
    "bytes": 2679,
    "gzipBytes": 1175,
    "sha256": "11679a94ae162c53396226cc91ff47f133905f9eaae743e2b3a694fee4a5bd1c",
-   "builtAt": "2026-11-25T08:37:28Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris",
    "pieces": 8
   },
@@ -828,7 +828,7 @@
    "bytes": 2460,
    "gzipBytes": 1159,
    "sha256": "58f646294c262adb69d4dddc3ced0814b923d8fcd4232fb9d0f27700f2051ca4",
-   "builtAt": "2026-11-25T08:37:21Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum, library in Paris, France",
    "pieces": 9
   },
@@ -841,7 +841,7 @@
    "bytes": 1310,
    "gzipBytes": 689,
    "sha256": "457b2b304c23bcbea28f4a1b4ee071e6eee58f2e508834254bb4128ce6cdb465",
-   "builtAt": "2026-11-25T08:37:21Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum and cultural center",
    "pieces": 1
   },
@@ -854,7 +854,7 @@
    "bytes": 752,
    "gzipBytes": 452,
    "sha256": "6e997f6404d393f5a162ab30f31c3cd88be6875c314c909a7bb6a456b01bed00",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French art gallery",
    "pieces": 1
   },
@@ -867,7 +867,7 @@
    "bytes": 964,
    "gzipBytes": 525,
    "sha256": "346a6877fef948abe6c9d7a10298f64ead79ea8ea66ab26aacfb81825e69686b",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French art gallery",
    "pieces": 1
   },
@@ -877,10 +877,10 @@
    "qid": "Q3329082",
    "name": "Barbier-Mueller Museum",
    "rows": 3,
-   "bytes": 1490,
-   "gzipBytes": 790,
-   "sha256": "6cd3442b53d70fa3e4bbb3f53048932c6a91a10fe959bbebe01a9e5426e6965a",
-   "builtAt": "2026-11-27T12:30:59Z",
+   "bytes": 1538,
+   "gzipBytes": 810,
+   "sha256": "9fab326e00358de9b6bd4f558140e5759d558c72b26ba7b575dadc3d71bff17a",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "museum in Geneva (Switzerland)",
    "pieces": 3
   },
@@ -893,7 +893,7 @@
    "bytes": 940,
    "gzipBytes": 546,
    "sha256": "91d797492f3fdc1c6d4f271f2cb763657e92c532c79c89ce717550252cef69b0",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris",
    "pieces": 1
   },
@@ -906,7 +906,7 @@
    "bytes": 3986,
    "gzipBytes": 1635,
    "sha256": "ba7858a83b49fb506b606597e4bd7e3fea0b0cd8e3c0b7bd0380f7cda1d795c6",
-   "builtAt": "2026-11-25T08:37:28Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 25
   },
@@ -919,7 +919,7 @@
    "bytes": 1451,
    "gzipBytes": 770,
    "sha256": "a4620757086b9a4f4ba2e5254d9647773aa63e4cb1d3d714c2a1bada6b034821",
-   "builtAt": "2026-11-25T08:37:11Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in Paris, France",
    "pieces": 3
   },
@@ -932,7 +932,7 @@
    "bytes": 1505,
    "gzipBytes": 741,
    "sha256": "4983a248ee000482ccda41527102a7214a809d724f4dd1294f786907749e413c",
-   "builtAt": "2026-11-25T08:38:21Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in France",
    "pieces": 1
   },
@@ -945,7 +945,7 @@
    "bytes": 1094,
    "gzipBytes": 629,
    "sha256": "cb23541a973f66aa0a156b5fac52198478fcd84f9e5e11c0e74df8bc7642eb76",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in France (1795)",
    "pieces": 1
   },
@@ -958,7 +958,7 @@
    "bytes": 1235,
    "gzipBytes": 635,
    "sha256": "3bcfdb1b0a536f543875823c30a13332ff8f64d37ec171306b093de7d2219665",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French museum of the performing arts including puppetry",
    "pieces": 1
   },
@@ -971,7 +971,7 @@
    "bytes": 964,
    "gzipBytes": 534,
    "sha256": "d3086e12d74cb58bfe70d7721e6aaad7e83273d33f16014cb9b353f4e7a118c4",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of perfume in Paris, France",
    "pieces": 1
   },
@@ -984,7 +984,7 @@
    "bytes": 1096,
    "gzipBytes": 594,
    "sha256": "6a73c1bf9a889dc57080d35f11a95d59a1c8ef72954a3e96cd4e94b6cffd2bc3",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Art Gallery created by André Simon and Daniel- Henry Kahnweiler run by Louise Leiris during the Occupation, 1920-1940: Galerie Simon",
    "pieces": 1
   },
@@ -997,7 +997,7 @@
    "bytes": 1137,
    "gzipBytes": 613,
    "sha256": "9d3d23db349d260d79e8cb71fa119659964e971db58c996b784514b3bab3b01a",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum dedicated to the Paris bar and its lawyers",
    "pieces": 1
   },
@@ -1010,7 +1010,7 @@
    "bytes": 1481,
    "gzipBytes": 739,
    "sha256": "7820508211f231f0c64d72e3f2ce29a193f1851ab094678b358819d739ff23db",
-   "builtAt": "2026-11-25T08:37:20Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Art gallery in Paris",
    "pieces": 4
   },
@@ -1023,7 +1023,7 @@
    "bytes": 623,
    "gzipBytes": 402,
    "sha256": "a3ae4687535724737348cc4272afd1aa091a574f0f3666c01ebcd119a1ba5b51",
-   "builtAt": "2026-11-25T08:37:06Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art museum in Paris, France",
    "pieces": 1
   },
@@ -1036,7 +1036,7 @@
    "bytes": 3833,
    "gzipBytes": 1669,
    "sha256": "d31eb974a60b11513a8eb0ab57561d7604a5e50e2576094cccda5186f9e1b335",
-   "builtAt": "2026-11-25T08:37:28Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French art gallery, auction house and publisher",
    "pieces": 14
   },
@@ -1046,10 +1046,10 @@
    "qid": "Q18752218",
    "name": "Musée du Petit Palais",
    "rows": 117,
-   "bytes": 19909,
-   "gzipBytes": 6572,
-   "sha256": "2f38647fe8022bfb7e54b400d3093ff6e8c06b1afe5b0f40c3dd4e80bf83cbf7",
-   "builtAt": "2026-11-27T13:25:18Z",
+   "bytes": 20822,
+   "gzipBytes": 6745,
+   "sha256": "a46b0812c159300c9fc17448789073c20918d2ee9c2738845e2fb5f53471f091",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "museum in Geneva (Switzerland)",
    "pieces": 117
   },
@@ -1062,7 +1062,7 @@
    "bytes": 1308,
    "gzipBytes": 670,
    "sha256": "c9b231036780181ae99f858a90df020b37db1e692fa5e661df1d8bf2e3a79243",
-   "builtAt": "2026-11-25T08:37:14Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art gallery in Paris (France)",
    "pieces": 4
   },
@@ -1075,7 +1075,7 @@
    "bytes": 1268,
    "gzipBytes": 654,
    "sha256": "b9b16c1455aac3c6c524d587fc782bd5fba23d63650c4ac19796876cd31e935e",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "commercial art gallery, art dealership",
    "pieces": 1
   },
@@ -1088,7 +1088,7 @@
    "bytes": 763,
    "gzipBytes": 461,
    "sha256": "24491030b06bd8715d8b8b01745cd62590477310e2721007770857c6ea63abe3",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "French art gallery",
    "pieces": 1
   },
@@ -1101,7 +1101,7 @@
    "bytes": 14829,
    "gzipBytes": 5160,
    "sha256": "e4b5369b02cf7238ca8a093f6b457c8f2636fcbe85d8ccefc8de440dd08a7515",
-   "builtAt": "2026-11-25T08:38:20Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "miseum and library in Paris, France",
    "pieces": 92
   },
@@ -1111,10 +1111,10 @@
    "qid": "Q47091450",
    "name": "Galerie Motte",
    "rows": 1,
-   "bytes": 792,
-   "gzipBytes": 486,
-   "sha256": "53713a2f4ef899cc4b1dda995bb1912adcf770bda20f13fdb8c41f3c28962ae7",
-   "builtAt": "2026-11-27T12:23:41Z",
+   "bytes": 844,
+   "gzipBytes": 517,
+   "sha256": "2964fb03c53c97b016978fc21ab559bf00b957b5b017442f464b04fffe2f2ba0",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "Art gallery in Geneva",
    "pieces": 1
   },
@@ -1127,7 +1127,7 @@
    "bytes": 564,
    "gzipBytes": 361,
    "sha256": "601d89fbb1be03086fc85c41f9adca769b3571d3a3be76fbe8d6e474348f91f9",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Art gallery in Paris",
    "pieces": 1
   },
@@ -1140,7 +1140,7 @@
    "bytes": 850,
    "gzipBytes": 514,
    "sha256": "338bfec0aedc05140b1d4af37154966b0195b448347bff3d5162befc7923ec04",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "Firm",
    "pieces": 1
   },
@@ -1153,7 +1153,7 @@
    "bytes": 862721,
    "gzipBytes": 167548,
    "sha256": "c0e5b5743d324fb0699f0681c174eb9b0b386ad1a4f45ad79484ed702f73f3e3",
-   "builtAt": "2026-11-25T08:40:40Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum of fine arts, one of 14 museums of the City of Paris",
    "pieces": 3626
   },
@@ -1166,7 +1166,7 @@
    "bytes": 756,
    "gzipBytes": 453,
    "sha256": "000b716db238d58a003afa55babac5e13edc57a94c9724c8d479cd9f5e6cbe53",
-   "builtAt": "2026-11-25T08:37:09Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art gallery in Paris",
    "pieces": 1
   },
@@ -1179,7 +1179,7 @@
    "bytes": 1196,
    "gzipBytes": 583,
    "sha256": "532bebc9b526c45cc51f9dc65ca5be1cb58cb6fc7315dd0f561a32a7e7df24d4",
-   "builtAt": "2026-11-25T08:37:11Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art gallery in Paris",
    "pieces": 3
   },
@@ -1192,7 +1192,7 @@
    "bytes": 553,
    "gzipBytes": 359,
    "sha256": "ab29350000d44bdc7da5b00196df62a5b0227f7787237083b0d2e126412b10ba",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": null,
    "pieces": 1
   },
@@ -1202,10 +1202,10 @@
    "qid": "Q66753129",
    "name": "Musée de l'horlogerie",
    "rows": 1,
-   "bytes": 623,
-   "gzipBytes": 407,
-   "sha256": "fbc5e91536dd2ea0bca0bfca7ceaf82fc639ea2cc7b5195f4a8e5ab75d14237e",
-   "builtAt": "2026-11-27T12:28:42Z",
+   "bytes": 661,
+   "gzipBytes": 429,
+   "sha256": "b1abd0c199355609e502b23954a5b523c342e8d9ff2282be2e0225473e6cfd5f",
+   "builtAt": "2026-11-28T09:07:05Z",
    "desc": "museum in Geneva that existed between 1972 and 2009",
    "pieces": 1
   },
@@ -1218,7 +1218,7 @@
    "bytes": 2861,
    "gzipBytes": 1437,
    "sha256": "424093c273462d607ca68cb7fd01ae70641ace9d5d0f778bfc7c1f06ad0409ae",
-   "builtAt": "2026-11-25T08:37:25Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in France",
    "pieces": 15
   },
@@ -1231,7 +1231,7 @@
    "bytes": 1405,
    "gzipBytes": 777,
    "sha256": "7b4c44b3ebdaf6df4d0c2924a6c3595b5b0663087512b453c5a8de7e40bc3baa",
-   "builtAt": "2026-11-25T08:37:12Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "museum in France",
    "pieces": 3
   },
@@ -1244,7 +1244,7 @@
    "bytes": 626,
    "gzipBytes": 405,
    "sha256": "2a356a5c1e1d9bf969d49387e560e902ec8b0851e3e33d6c6191e0950d4fd44e",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "galerie d'art parisienne",
    "pieces": 1
   },
@@ -1257,7 +1257,7 @@
    "bytes": 1054,
    "gzipBytes": 565,
    "sha256": "b371b719cb03003efc83e166461d37814fb796e460f4b0a5e003eadae575cdd8",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "art gallery in Paris",
    "pieces": 1
   },
@@ -1270,7 +1270,7 @@
    "bytes": 1372,
    "gzipBytes": 725,
    "sha256": "8288e151906c2ff0ebbbef1562608769ed987c081c7e3e83628caebb392d3003",
-   "builtAt": "2026-11-25T08:37:32Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "group of buildings dedicated to music in the Parc de la Villette, Paris, France",
    "pieces": 2
   },
@@ -1283,7 +1283,7 @@
    "bytes": 8650,
    "gzipBytes": 3249,
    "sha256": "e1b9c30c1300636b33147f8e22ef91fa0a32bb039170d9787da7e3f0ff1d469f",
-   "builtAt": "2026-11-25T08:38:18Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": null,
    "pieces": 77
   },
@@ -1296,7 +1296,7 @@
    "bytes": 602,
    "gzipBytes": 389,
    "sha256": "a326fff12f9e1c08c39f228dcc415af7a4a88ad4c4e264d5a1e0206be39f78ee",
-   "builtAt": "2026-11-25T08:37:07Z",
+   "builtAt": "2026-11-28T09:06:54Z",
    "desc": "galerie d'art à Paris",
    "pieces": 1
   },
